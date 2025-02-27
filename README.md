@@ -1,4 +1,4 @@
-# Insurance Price Prediction - Machine Learning Project
+# Insurance Price Prediction 
 
 ## Problem Statement
 Accurately predicting health insurance costs is critical for fair pricing and financial planning. Traditional methods often fail to capture complex interactions between demographic factors (age, BMI, smoking status) and medical expenses. This project addresses the challenge of building a robust predictive model using machine learning to estimate individual insurance charges.
